@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "44edb15012c2de85",
+    "type": "split",
+    "children": [
+      {
+        "id": "a0fdfc25a8825e3c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "MSSE/TEST.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dfa786c0cf800f4d",
+    "type": "split",
+    "children": [
+      {
+        "id": "2d3ed8c0480d9f51",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "44370b617f70a3c3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "015cc348310ebff8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3272b15f15b09222",
+    "type": "split",
+    "children": [
+      {
+        "id": "cbf4526a2943bf2f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9df6c2d276198ad4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "MSSE/TEST.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "a0fdfc25a8825e3c",
+  "lastOpenFiles": [
+    "MSSE/TEST.md",
+    "MSSE/SENG530-V&V/Final.md",
+    "MSSE/SENG540-SoftwareEvolution/Module 1.md",
+    "System Design/Design Interview Strategies.md",
+    "System Design/Scalability.md",
+    "System Design/Algorithms and Data Structures.md",
+    "System Design/Caching.md",
+    "System Design/Resiliency.md",
+    "MSSE/Pasted image 20220423120112.png",
+    "SENG540-SoftwareEvolution/Module 1.md"
+  ]
+}
